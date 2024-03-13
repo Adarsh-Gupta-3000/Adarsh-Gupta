@@ -1,9 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-gupta-3000&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-gupta-3000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-Gupta-3000&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-gupta-3000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adarsh48691830" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh48691830?logo=twitter&style=for-the-badge" alt="adarsh48691830" /></a> </p>
 
