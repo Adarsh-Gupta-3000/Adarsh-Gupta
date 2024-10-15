@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
-<h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Manish Mehta</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, c++**
 
-- 📫 How to reach me **adarsh.guptakk7@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
